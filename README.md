@@ -1,2 +1,2 @@
-# open-odoo-projects
-Open Odoo Projects
+# project-dashboard
+Project Dahsboard
